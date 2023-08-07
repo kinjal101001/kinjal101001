@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Kinjal 👋
 
 <!--
 **kinjal101001/kinjal101001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
