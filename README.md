@@ -46,7 +46,7 @@ As a passionate web developer, I have extensive expertise in JavaScript, React.J
   <p align="center">
     <a href="https://www.linkedin.com/in/kinjal-kansara/" target="_blank" rel="noreferrer"><img title="linkedin.com/in/kinjal-kansara/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-<a href="https://www.linkedin.com/in/kinjal-kansara/" target="_blank" rel="noreferrer"><img title="twitter.com/in/kinjal-kansara/" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/KansaraKinjal10" target="_blank" rel="noreferrer"><img title="twitter.com/in/kinjal-kansara/" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 	<a href="https://www.facebook.com/Kinjal.Kansara10/" target="_blank" rel="noreferrer"><img title="facebook.com/Kinjal.Kansara10/" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>
 	
